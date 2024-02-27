@@ -1,0 +1,15 @@
+cli-based app
+ 
+npm login --registry=http://npm.sencha.com/ --scope=@sencha
+Username: iderasencha.license2..gmail.com
+pwd: ?0`)'#j#`(
+email id: iderasencha.license2@gmail.com
+ 
+ 
+ext-gen
+ 
+ext-gen app --moderntheme theme-material --template moderndesktop --name demo
+ 
+cd folder name
+ 
+npm start
