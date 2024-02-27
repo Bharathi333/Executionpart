@@ -1,0 +1,25 @@
+I have created 4-5 application as a Trail, Pro, Enterprise user. and have mention timing below
+Windows:
+Trail and Pro :
+Modern : 5 mins
+Classic : 5 mins
+Universal : 7-8 mins
+      2. Enterprise :
+Modern : 4-5 mins
+Classic: 4-5 mins
+Universal : 7-8 mins
+      3. Cmd based app : 4 mins
+      4. Cli based app : 4 mins.
+ 
+Ubuntu:
+ 
+      1.Trail and Pro :
+Modern : 3 mins
+Classic : 3 mins
+Universal : 3 mins
+     2. Enterprise :
+Modern : 3 mins
+Classic: 3mins
+Universal : 3 mins
+      3. Cmd based app : 2 mins
+      4. Cli based app : 2 mins.
